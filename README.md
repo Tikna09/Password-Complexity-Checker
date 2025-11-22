@@ -1,6 +1,6 @@
 # Password Strength Analyzer
 The Password Strength Analyzer is a simple and interactive web-based application designed to help users evaluate the security level of their passwords. The project analyzes the entered password in real time and provides instant feedback on its strength along with useful suggestions to improve it. Additionally, the system includes an automatic Strong Password Generator that creates a secure password for users.
-Key Features
+# Key Features
 1.	Real-Time Password Strength Checking
 When the user types a password, the system immediately evaluates it based on:
 o	Password length
