@@ -10,11 +10,12 @@ o	Use of digits
 o	Use of special characters
 o	Avoiding commonly-used passwords
 # The result is displayed as:
-  o	Weak i<img width="949" height="532" alt="Screenshot 2025-11-22 120738" src="https://github.com/user-attachments/assets/674bd184-4d8b-4608-86cb-89f2e27c8949" />
 
-o	Medium <img width="949" height="536" alt="Screenshot 2025-11-22 120616" src="https://github.com/user-attachments/assets/7b7f172a-2fa9-4ad4-b0cc-bdd81b3d513d" />
+o	Weak Password <img width="949" height="532" alt="Screenshot 2025-11-22 120738" src="https://github.com/user-attachments/assets/674bd184-4d8b-4608-86cb-89f2e27c8949" />
 
-o	Strong <img width="946" height="527" alt="Screenshot 2025-11-22 120532" src="https://github.com/user-attachments/assets/f21f4c07-adc6-4958-b146-6ce200329d89" />
+o	Medium Password <img width="949" height="536" alt="Screenshot 2025-11-22 120616" src="https://github.com/user-attachments/assets/7b7f172a-2fa9-4ad4-b0cc-bdd81b3d513d" />
+
+o	Strong Password <img width="946" height="527" alt="Screenshot 2025-11-22 120532" src="https://github.com/user-attachments/assets/f21f4c07-adc6-4958-b146-6ce200329d89" />
 
 2.	Improvement Suggestions
 If the password does not meet certain criteria, the system displays suggestions such as:
