@@ -9,7 +9,7 @@ o	Use of uppercase letters
 o	Use of digits
 o	Use of special characters
 o	Avoiding commonly-used passwords
-The result is displayed as:
+# The result is displayed as:
 o	Weak i<img width="949" height="532" alt="Screenshot 2025-11-22 120738" src="https://github.com/user-attachments/assets/674bd184-4d8b-4608-86cb-89f2e27c8949" />
 o	Medium
 o	Strong
