@@ -52,4 +52,5 @@ o	5 → Strong
 The main goal of this project is to raise user awareness about cybersecurity and strong password creation. This tool helps users understand how to build secure passwords that protect them from unauthorized access and cyber threats.
 # Conclusion
 This project successfully demonstrates the importance of password security by analyzing password strength and guiding users to create strong passwords. It combines web technologies effectively to deliver a practical and interactive cybersecurity tool.
+<img width="946" height="527" alt="Screenshot 2025-11-22 120532" src="https://github.com/user-attachments/assets/2953c890-1e01-4c3c-bef0-82cc28132681" />
 
