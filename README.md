@@ -37,7 +37,7 @@ Technology Stack
 •	HTML – Structure of the webpage
 •	CSS – Styling and layout
 •	JavaScript – Logic for password checking, scoring, suggestions, and password generation
-How It Works
+# How It Works
 1.	The user enters a password into the input field.
 2.	JavaScript evaluates the password using:
 o	Regular expressions
@@ -48,8 +48,8 @@ o	3–4 → Medium
 o	5 → Strong
 4.	Suggestions are listed based on missing criteria.
 5.	Pressing Generate Password creates a strong password automatically.
-Purpose of the Project
+# Purpose of the Project
 The main goal of this project is to raise user awareness about cybersecurity and strong password creation. This tool helps users understand how to build secure passwords that protect them from unauthorized access and cyber threats.
-Conclusion
+# Conclusion
 This project successfully demonstrates the importance of password security by analyzing password strength and guiding users to create strong passwords. It combines web technologies effectively to deliver a practical and interactive cybersecurity tool.
 
